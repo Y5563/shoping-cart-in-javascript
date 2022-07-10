@@ -97,8 +97,8 @@ const eventCart = () => {
                     <div class="amount">
                         <h6>$<h6 id="cart-price">100</h6></h6>
                         <div class="zero">
-                         <a href="buying.html" <i class="bi bi-bag"></i></a>
-                            <i class="bi bi-trash3 "></i>
+                         <a href="buying.html" <i class="bi bi-bag data-bs-toggle="tooltip" data-bs-placement="top" title="Buy"></i></a>
+                            <i class="bi bi-trash3 data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"></i>
                         </div>
                         <div class="zero">
                             <i class="bi bi-dash" id="minus"></i>
@@ -116,14 +116,14 @@ const eventCart = () => {
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
-                        <h5 class="card-title">Casual Shirt</h5>
+                        <h5 class="card-title">Men shirt</h5>
                         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional.</p>
                     </div>
                     <div class="amount">
                         <h6>$<h6 id="cart-price">100</h6></h6>
                         <div class="zero">
-                         <a href="buying.html" <i class="bi bi-bag"></i></a>
-                            <i class="bi bi-trash3 "></i>
+                         <a href="buying.html" <i class="bi bi-bag data-bs-toggle="tooltip" data-bs-placement="top" title="Buy"></i></a>
+                            <i class="bi bi-trash3 data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"></i>
                         </div>
                         <div class="zero">
                             <i class="bi bi-dash" id="minus"></i>
@@ -147,8 +147,8 @@ const eventCart = () => {
                     <div class="amount">
                         <h6>$<h6 id="cart-price">100</h6></h6>
                         <div class="zero">
-                         <a href="buying.html" <i class="bi bi-bag"></i></a>
-                            <i class="bi bi-trash3 "></i>
+                         <a href="buying.html" <i class="bi bi-bag data-bs-toggle="tooltip" data-bs-placement="top" title="Buy"></i></a>
+                            <i class="bi bi-trash3 data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"></i>
                         </div>
                         <div class="zero">
                             <i class="bi bi-dash" id="minus"></i>
@@ -172,8 +172,8 @@ const eventCart = () => {
                     <div class="amount">
                         <h6>$<h6 id="cart-price">100</h6></h6>
                         <div class="zero">
-                         <a href="buying.html" <i class="bi bi-bag"></i></a>
-                            <i class="bi bi-trash3 "></i>
+                         <a href="buying.html" <i class="bi bi-bag data-bs-toggle="tooltip" data-bs-placement="top" title="Buy"></i></a>
+                            <i class="bi bi-trash3 data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"></i>
                         </div>
                         <div class="zero">
                             <i class="bi bi-dash" id="minus"></i>
